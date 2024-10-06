@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="beschrapi-logo.png" alt="Beschrapi Logo" width="200">
+  <img src="../beschrapi-logo.png" alt="Beschrapi Logo" width="200">
 </p>
 
 <h1 align="center">Beschrapi</h1>
