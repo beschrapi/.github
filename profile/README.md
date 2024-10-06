@@ -14,6 +14,6 @@
 Beschrapi (bəˈʃraːpi), derived from the German word "beschreiben" (meaning "to describe") and the English acronym "API" (Application Programming Interface), is a tool designed for building APIs using YAML files. It offers a simple and efficient way to create APIs with minimal code.
 
 > [!NOTE]  
-> This is only the example repository for the Beschrapi tool. Currently Beschrapi is under development and not yet released.
+> Beschrapi is currently under development and not yet released.
 >
-> But you can still use Beschrapi to build your APIs. Just clone this repository to get started.
+> But you can still use Beschrapi to build your APIs. Just clone the  [Example Repository](https://github.com/beschrapi/example)
